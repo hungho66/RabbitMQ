@@ -1,0 +1,17 @@
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/bin/Debug/net6.0/Consumer
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/bin/Debug/net6.0/Consumer.deps.json
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/bin/Debug/net6.0/Consumer.runtimeconfig.json
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/bin/Debug/net6.0/Consumer.dll
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/bin/Debug/net6.0/ref/Consumer.dll
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/bin/Debug/net6.0/Consumer.pdb
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.csproj.AssemblyReference.cache
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.AssemblyInfoInputs.cache
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.AssemblyInfo.cs
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.csproj.CoreCompileInputs.cache
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.csproj.CopyComplete
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.dll
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/ref/Consumer.dll
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.pdb
+/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/1.FanoutExchange/Consumer/obj/Debug/net6.0/Consumer.genruntimeconfig.cache
