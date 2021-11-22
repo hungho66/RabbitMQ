@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿//TODO: Fanout Exchange -> All Queue (Not route) -> queue -> C
+using System.Text;
 using RabbitMQ.Client;
 
 var factory = new ConnectionFactory();
