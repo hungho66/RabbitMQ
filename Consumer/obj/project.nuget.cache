@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYfu+n+CG/myqA+qfertSobV4LuXd8ebDMhqUFhD1dbpJu2sx+ePw3nVmhkrniCKSRW4SzlAFgWk785IY1j/ug==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Downloads/IT_CNPM/Web/Microservice/NewNet6/RabbitMQTutorial/Consumer/Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/apple/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/apple/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
