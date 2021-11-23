@@ -9,6 +9,7 @@ using var connection = factory.CreateConnection();
 var channel = connection.CreateModel();
 
 //Exchange: Direct
+//Rouing Key: route-Error | route-Critical
 channel.ExchangeDeclare("logs-direct", durable: true, type: ExchangeType.Direct);
 
 LogNames logs = (LogNames)new Random().Next(1, 5);
